@@ -8,7 +8,9 @@
 - Provided node will be used to spawn a local mainnet fork using ganache-core
 
 > npm install -g truffle
+
 > npm install
+
 > truffle test
 
  
